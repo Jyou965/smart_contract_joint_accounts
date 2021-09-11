@@ -1,5 +1,4 @@
 # smart_contract_joint_accounts
-Challenge 20
 
 This application builds a smart contract to hosting joint savings accounts for financial institutions.
 
@@ -47,6 +46,5 @@ Withdraw 10 Ether to Account Two:
 
 ## Contributors
 
-Jackie You with the support of FinTech Boot Camp Staff
-
+Jackie You
 ---
